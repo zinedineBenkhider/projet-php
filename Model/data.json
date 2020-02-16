@@ -1,0 +1,50 @@
+{"1":{
+    "id"
+       :"1",
+    "name"
+       :"Jean slim",
+    "color"
+       :"Rouge",
+    "price"
+       :100,
+    "description"
+       :"Jean slim fabriqué en turkey"
+ },
+ "2":{
+     "id"
+       :"2",
+     "name"
+        :"T-shirt",
+     "color"
+        :"Jaune",
+     "price"
+        :20,
+     "description"
+        :"T-shirt en coton fabriqué en Vietnam"
+  },
+  "3":{
+      "id"
+        :"3",
+      "name"
+         :"Pull",
+      "color"
+         :"Noir",
+      "price"
+         :30,
+      "description"
+         :"Pull en coton fabriqué en Indonésie"
+   },
+   "4":{
+       "id"
+         :"4",
+       "name"
+          :"Short",
+       "color"
+          :"Rouge",
+       "price"
+          :15,
+       "description"
+          :"Short en nylon fabriqué en France"
+    }
+
+ }
